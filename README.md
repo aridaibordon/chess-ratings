@@ -1,5 +1,4 @@
-# <p> Are women worse at chess?
-## Solving stupid questions using numerical methods </p>
+# Are women worse at chess? ## Solving stupid questions using numerical methods
 
 In this repository, the complete code used in the document LINK is shown. FIDE data can be found <p><a href="https://ratings.fide.com/">here</a></p> but needs to be corrected due to the missmatching of one of the rows.
 
