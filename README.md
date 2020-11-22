@@ -5,7 +5,7 @@ In this repository, the complete code used in the document LINK is shown. FIDE d
 The code have been divided in two parts: 
 
 <ul>
-  <li> <b> read_fide.py </b> </li>
+  <li> <b> read_FIDE.py </b> </li>
   <li> <b> chess_ratings.py </b> </li>
 </ul>
 
