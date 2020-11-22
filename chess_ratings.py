@@ -9,7 +9,7 @@ import matplotlib as mpl
 import matplotlib.pyplot as plt
 import scipy.stats as sc
 
-from read_rating import read_fide
+from read_FIDE import read_fide
 
 mpl.rcParams['font.family']     = 'DejaVu Sans'
 plt.rcParams['font.size']       = 12
