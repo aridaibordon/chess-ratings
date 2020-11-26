@@ -5,8 +5,6 @@
 <p>The code have been divided in two parts:</p>
 
 <ul>
-  <li> <b> read_FIDE.py </b> </li>
-  <li> <b> chess_ratings.py </b> </li>
+  <li> <b> read_FIDE.py:</b> Reads FIDE data and plots some relevant information. </li>
+  <li> <b> chess_ratings.py:</b> Generates simulated data and compares it with the one provided by FIDE</li>
 </ul>
-
-<p>The first one reads the FIDE data and plot some relevant information while the second generates simulated data and compares it with the one provided by FIDE.</p>
